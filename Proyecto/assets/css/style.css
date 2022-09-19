@@ -1,4 +1,21 @@
-.fa-gift {
-    font-size: 100px;
-    color: red;
+/* GLOBAL STYLES */
+
+* {
+    padding: 0px;
+    margin: 0px;
+    background-color: black;
+}
+
+/*Header*/
+
+header {
+    width: 100vw;
+    height: 30vh;
+    background-color: red;
+    
+}
+
+
+.header__typewriter h1 {
+    color:white;
 }
